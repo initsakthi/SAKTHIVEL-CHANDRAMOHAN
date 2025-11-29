@@ -1,4 +1,3 @@
- SAKTHIVEL-CHANDRAMOHAN
 Hi, I'm Sakthivel Chandramohan 👋
 
 🎓 MCA Student | 💻 Full-Stack Developer | 📊 ML Enthusiast  
